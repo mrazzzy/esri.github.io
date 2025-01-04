@@ -12,7 +12,7 @@ Both the project categories and search suggestions in <http://esri.github.io> ar
 
 You can find a complete list of searchable topics in [`search-topics.yml`](data/search-topics.yml). When a [topic](https://github.com/blog/2309-introducing-topics) is added to an Esri repository, it will be reflected in search immediately.
 
-## Development
+## Development:
 
 This project is a simple web page driven with JavaScript, [Calcite](https://developers.arcgis.com/calcite-design-system/), and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -20,7 +20,7 @@ This project is a simple web page driven with JavaScript, [Calcite](https://deve
 2. In the terminal, run `npx serve`.
 3. Open the browser to the URL given.
 
-## Architecture
+## Architecture:
 
 Information for the case studies and featured projects can be found in [`projects.yml`](data/projects.yml)
 
@@ -33,15 +33,15 @@ Information for the case studies and featured projects can be found in [`project
     stars: 109
 ```
 
-## Contributing
+## Contributing:
 
 Anyone and everyone is welcome to contribute. Please see our [guidelines for contributing](CONTRIBUTING.md).
 
-## Code of conduct
+## Code of conduct:
 
 All contributors and participants in this repository are expected to abide by our [code of conduct](https://github.com/Esri/contributing/blob/master/CODE_OF_CONDUCT.md).
 
-## License
+## License:
 
 Copyright &copy; 2022 Esri
 
